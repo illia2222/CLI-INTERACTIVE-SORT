@@ -1,0 +1,5 @@
+{"name":"Ilya","gender":"male","age":"24"}
+{"name":"Dimon","gender":"male"}
+{"name":"Valeriya","gender":"female","age":"22"}
+{"name":"Valik","gender":"male","age":"27"}
+{"name":"Oksana","gender":"female"}
